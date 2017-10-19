@@ -1,6 +1,6 @@
-﻿namespace BruteForceEmulator
+﻿namespace MMSBruteForceEmu
 {
-    partial class BruteForceEmulator
+    partial class MMSBruteForceEmu
     {
         /// <summary>
         /// Required designer variable.
@@ -110,7 +110,7 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // BruteForceEmulator
+            // MMSBruteForceEmu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -122,8 +122,8 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
-            this.Name = "BruteForceEmulator";
-            this.Text = "BruteForceEmulator";
+            this.Name = "MMSBruteForceEmu";
+            this.Text = "MMSBruteForceEmu";
             this.ResumeLayout(false);
             this.PerformLayout();
 

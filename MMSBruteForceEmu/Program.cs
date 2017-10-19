@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BruteForceEmulator
+namespace MMSBruteForceEmu
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace BruteForceEmulator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BruteForceEmulator());
+            Application.Run(new MMSBruteForceEmu());
         }
     }
 }

@@ -4,9 +4,9 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using System.Linq;
 
-namespace BruteForceEmulator
+namespace MMSBruteForceEmu
 {
-    public partial class BruteForceEmulator : Form
+    public partial class MMSBruteForceEmu : Form
     {
         public static string UserName = "BRL.Test";
         public static string UserNameXPath = "//input[@id='Username']";
@@ -15,7 +15,7 @@ namespace BruteForceEmulator
 
         public static Random Random = new Random();
 
-        public BruteForceEmulator()
+        public MMSBruteForceEmu()
         {
             InitializeComponent();
         }

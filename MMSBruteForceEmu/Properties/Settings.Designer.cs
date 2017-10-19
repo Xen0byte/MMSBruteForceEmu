@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BruteForceEmulator.Properties
+namespace MMSBruteForceEmu.Properties
 {
 
 
